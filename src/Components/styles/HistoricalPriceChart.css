@@ -1,0 +1,20 @@
+
+.historical-price-chart {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  @media (max-width: 768px) {
+    .historical-price-chart {
+    
+      max-width: 90%; 
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .historical-price-chart {
+    
+      max-width: 80%; 
+    }
+  }
+  
