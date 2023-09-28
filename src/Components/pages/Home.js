@@ -7,7 +7,7 @@ import FeatureSection from "../Home/FeatureSection";
 import Footer from "../Home/Footer";
 import MarketStatsSidebar from "../Home/MarketStatsSidebar";
 import HistoricalPriceChart from "../Home/HistoricalPriceChart";
-import MarketStatCard from "../Home/MarketStatCard";
+
 
 class Home extends Component {
   constructor() {
