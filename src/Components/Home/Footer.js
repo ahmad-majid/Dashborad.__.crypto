@@ -6,8 +6,8 @@ const Footer = () => {
       <div className="footer-content">
         <p>&copy; 2023 Crypto Dashboard</p>
         <div className="footer-links">
-          <a href="#">Privacy Policy</a>
-          <a href="#">Terms of Service</a>
+          <a href="/">Privacy Policy</a>
+          <a href="/">Terms of Service</a>
         </div>
       </div>
     </footer>
